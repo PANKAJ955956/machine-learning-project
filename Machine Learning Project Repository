@@ -1,0 +1,62 @@
+# 🤖 Machine Learning Project Repository
+
+Welcome to the **Machine Learning Project Hub** by **Pankaj Kumar**. This repository serves as a complete ecosystem for anyone diving into the world of machine learning — whether you're a beginner learning the ropes, or an advanced user building and deploying models.
+
+---
+
+## 📌 Table of Contents
+
+- [About the Project](#about-the-project)
+- [Roadmap PDF](#roadmap-pdf)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [What You'll Learn](#what-youll-learn)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Future Enhancements](#future-enhancements)
+- [Contributing Guidelines](#contributing-guidelines)
+- [About Me](#about-me)
+- [License](#license)
+
+---
+
+## 📖 About the Project
+
+This repository is a **comprehensive collection of resources, notebooks, scripts, and tools** that cover:
+- End-to-end machine learning pipelines
+- Data cleaning and visualization techniques
+- Model training and tuning strategies
+- Practical implementations of supervised and unsupervised learning
+- Real-world mini-projects and case studies
+- ML deployment with Streamlit and Flask
+
+Whether you're preparing for a data science interview, a college project, or just learning machine learning, this repo is here to help you grow.
+
+---
+
+## 📘 Roadmap PDF
+
+A specially designed roadmap PDF is included:  
+**`machine-learning-roadmap-v2.pdf`**  
+🧭 It contains:
+- A step-by-step ML learning path
+- Recommended tools, libraries, and datasets
+- Online resources and tutorials
+- Hands-on project ideas
+
+> **Download Tip:** Start from the roadmap and follow it to build foundational knowledge before diving into code.
+
+---
+
+## 📁 Project Structure (Planned)
+
+```bash
+machine-learning-project/
+│
+├── data/                     # Sample datasets (CSV, JSON, etc.)
+├── notebooks/                # Jupyter notebooks for learning & experimentation
+├── models/                   # Saved models (Pickle, Joblib, etc.)
+├── deployment/               # Web app integration (Flask/Streamlit)
+├── utils/                    # Helper functions (e.g., preprocessing, visualization)
+├── reports/                  # EDA reports and model evaluations
+├── machine-learning-roadmap-v2.pdf
+└── README.md
